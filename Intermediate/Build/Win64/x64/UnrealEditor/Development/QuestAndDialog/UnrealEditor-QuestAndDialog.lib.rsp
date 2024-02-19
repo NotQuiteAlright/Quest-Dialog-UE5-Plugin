@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QuestAndDialog.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"N:\UE\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"N:\UE\MyProject\Plugins\QuestAndDialog\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuestAndDialog\Module.QuestAndDialog.cpp.obj"
+"N:\UE\MyProject\Plugins\QuestAndDialog\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuestAndDialog\Default.rc2.res"
+/OUT:"N:\UE\MyProject\Plugins\QuestAndDialog\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuestAndDialog\UnrealEditor-QuestAndDialog.lib"

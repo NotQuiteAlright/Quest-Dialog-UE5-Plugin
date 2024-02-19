@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuestAndDialog.cpp.obj": [
+			"QuestAndDialog.cpp.obj",
+			"QuestAndDialogCommands.cpp.obj",
+			"QuestAndDialogStyle.cpp.obj"
+		]
+	}
+}

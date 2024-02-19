@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "n:\\ue\\myproject\\plugins\\questanddialog\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\questanddialog\\module.questanddialog.cpp",
+        "ProvidedModule": "",
+        "PCH": "n:\\ue\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "n:\\ue\\myproject\\plugins\\questanddialog\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\questanddialog\\definitions.questanddialog.h",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\private\\questanddialog.cpp",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\public\\questanddialog.h",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\public\\questanddialogstyle.h",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\public\\questanddialogcommands.h",
+            "n:\\games\\ue_5.3\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "n:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "n:\\games\\ue_5.3\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "n:\\games\\ue_5.3\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "n:\\games\\ue_5.3\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "n:\\games\\ue_5.3\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\private\\questanddialogcommands.cpp",
+            "n:\\ue\\myproject\\plugins\\questanddialog\\source\\questanddialog\\private\\questanddialogstyle.cpp",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "n:\\games\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestylemacros.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
